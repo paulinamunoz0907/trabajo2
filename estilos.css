@@ -1,0 +1,30 @@
+.carusel{height: 800px;}
+
+.letra1{
+    text-align: center;
+    color:#6E14F8;
+    font-family: 'Nerko One', cursive;
+    font-weight: bold;
+}
+.body{
+    background-color: #CC95EC;
+    text-align: center;
+    color:#6E14F8;
+    font-family: 'Nerko One', cursive;
+}
+.carusel{height: 800px;}
+
+    .letra2{
+        text-align: justify;
+        color: #3DE5FC;
+        font-size: 25px;
+    }
+    .titulo1{
+        color:#9A3DFC ;
+    }
+    .footer{
+        text-align: center;
+    color:#14AFF8;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    }
